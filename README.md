@@ -1,2 +1,2 @@
 # brainwashed-bravado
-echo "README"
+README
