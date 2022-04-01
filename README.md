@@ -1,2 +1,3 @@
 # brainwashed-bravado
-echo "README"
+README
+<p> I am new to this and would like to get better. </p)
